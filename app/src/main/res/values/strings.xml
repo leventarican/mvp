@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MVP</string>
+    <string name="programmingLanguage">programming language</string>
+    <string name="add">add</string>
+    <string name="show">show</string>
+
+</resources>
